@@ -1,0 +1,14 @@
+D:\SpotifyPlus\SpotifyHotkeys\bin\Debug\SpotifyBoilerplate.exe.config
+D:\SpotifyPlus\SpotifyHotkeys\bin\Debug\SpotifyBoilerplate.exe
+D:\SpotifyPlus\SpotifyHotkeys\bin\Debug\SpotifyBoilerplate.pdb
+D:\SpotifyPlus\SpotifyHotkeys\bin\Debug\Newtonsoft.Json.dll
+D:\SpotifyPlus\SpotifyHotkeys\bin\Debug\Newtonsoft.Json.xml
+D:\SpotifyPlus\SpotifyHotkeys\obj\Debug\SpotifyHotkeys.csprojAssemblyReference.cache
+D:\SpotifyPlus\SpotifyHotkeys\obj\Debug\SpotifyBoilerplate.Properties.Resources.resources
+D:\SpotifyPlus\SpotifyHotkeys\obj\Debug\SpotifyBoilerplate.Views.Initialization.resources
+D:\SpotifyPlus\SpotifyHotkeys\obj\Debug\SpotifyBoilerplate.Views.Main.resources
+D:\SpotifyPlus\SpotifyHotkeys\obj\Debug\SpotifyHotkeys.csproj.GenerateResource.cache
+D:\SpotifyPlus\SpotifyHotkeys\obj\Debug\SpotifyHotkeys.csproj.CopyComplete
+D:\SpotifyPlus\SpotifyHotkeys\obj\Debug\SpotifyBoilerplate.exe
+D:\SpotifyPlus\SpotifyHotkeys\obj\Debug\SpotifyBoilerplate.pdb
+D:\SpotifyPlus\SpotifyHotkeys\bin\Debug\Bunifu_UI_v1.52.dll

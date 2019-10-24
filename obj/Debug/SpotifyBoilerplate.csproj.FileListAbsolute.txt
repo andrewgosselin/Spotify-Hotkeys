@@ -1,0 +1,13 @@
+D:\SpotifyPlus\SpotifyBoilerplate\bin\Debug\SpotifyBoilerplate.exe.config
+D:\SpotifyPlus\SpotifyBoilerplate\bin\Debug\SpotifyBoilerplate.exe
+D:\SpotifyPlus\SpotifyBoilerplate\bin\Debug\SpotifyBoilerplate.pdb
+D:\SpotifyPlus\SpotifyBoilerplate\bin\Debug\Newtonsoft.Json.dll
+D:\SpotifyPlus\SpotifyBoilerplate\bin\Debug\Newtonsoft.Json.xml
+D:\SpotifyPlus\SpotifyBoilerplate\obj\Debug\SpotifyBoilerplate.csprojAssemblyReference.cache
+D:\SpotifyPlus\SpotifyBoilerplate\obj\Debug\SpotifyBoilerplate.Properties.Resources.resources
+D:\SpotifyPlus\SpotifyBoilerplate\obj\Debug\SpotifyBoilerplate.Views.Initialization.resources
+D:\SpotifyPlus\SpotifyBoilerplate\obj\Debug\SpotifyBoilerplate.csproj.GenerateResource.cache
+D:\SpotifyPlus\SpotifyBoilerplate\obj\Debug\SpotifyBoilerplate.csproj.CopyComplete
+D:\SpotifyPlus\SpotifyBoilerplate\obj\Debug\SpotifyBoilerplate.exe
+D:\SpotifyPlus\SpotifyBoilerplate\obj\Debug\SpotifyBoilerplate.pdb
+D:\SpotifyPlus\SpotifyBoilerplate\obj\Debug\SpotifyBoilerplate.Views.Main.resources

@@ -1,4 +1,4 @@
-﻿namespace SpotifyBoilerplate.Views
+﻿namespace SpotifyHotkeys.Views
 {
     partial class Initialization
     {

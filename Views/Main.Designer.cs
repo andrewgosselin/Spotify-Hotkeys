@@ -1,4 +1,4 @@
-﻿namespace SpotifyBoilerplate.Views
+﻿namespace SpotifyHotkeys.Views
 {
     partial class Main
     {
@@ -37,72 +37,69 @@
             this.bunifuFlatButton2 = new Bunifu.Framework.UI.BunifuFlatButton();
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.panel22 = new System.Windows.Forms.Panel();
             this.label_userID = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
+            this.panel21 = new System.Windows.Forms.Panel();
             this.label_userName = new System.Windows.Forms.Label();
             this.bunifuFlatButton6 = new Bunifu.Framework.UI.BunifuFlatButton();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
             this.button_home = new Bunifu.Framework.UI.BunifuFlatButton();
             this.button_settings = new Bunifu.Framework.UI.BunifuFlatButton();
             this.button_about = new Bunifu.Framework.UI.BunifuFlatButton();
-            this.bunifuFlatButton7 = new Bunifu.Framework.UI.BunifuFlatButton();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.sideMenu_exitButton = new Bunifu.Framework.UI.BunifuFlatButton();
             this.topBar_dragControl = new Bunifu.Framework.UI.BunifuDragControl(this.components);
             this.panel5 = new System.Windows.Forms.Panel();
             this.label_currentView = new System.Windows.Forms.Label();
-            this.view_home = new System.Windows.Forms.Panel();
             this.view_settings = new System.Windows.Forms.Panel();
-            this.panel13 = new System.Windows.Forms.Panel();
-            this.settingsView_general = new System.Windows.Forms.FlowLayoutPanel();
-            this.hotkeyButton_AddSong1 = new Bunifu.Framework.UI.BunifuFlatButton();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
-            this.bunifuFlatButton3 = new Bunifu.Framework.UI.BunifuFlatButton();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.button2 = new System.Windows.Forms.Button();
-            this.bunifuFlatButton4 = new Bunifu.Framework.UI.BunifuFlatButton();
-            this.panel8 = new System.Windows.Forms.Panel();
-            this.button3 = new System.Windows.Forms.Button();
-            this.bunifuFlatButton5 = new Bunifu.Framework.UI.BunifuFlatButton();
-            this.panel9 = new System.Windows.Forms.Panel();
-            this.button4 = new System.Windows.Forms.Button();
-            this.bunifuFlatButton8 = new Bunifu.Framework.UI.BunifuFlatButton();
-            this.panel10 = new System.Windows.Forms.Panel();
-            this.button5 = new System.Windows.Forms.Button();
-            this.panel12 = new System.Windows.Forms.Panel();
-            this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
-            this.settingsButton_hotkeys = new Bunifu.Framework.UI.BunifuFlatButton();
-            this.bunifuFlatButton10 = new Bunifu.Framework.UI.BunifuFlatButton();
-            this.bunifuFlatButton11 = new Bunifu.Framework.UI.BunifuFlatButton();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
             this.flowLayoutPanel3 = new System.Windows.Forms.FlowLayoutPanel();
+            this.panel13 = new System.Windows.Forms.Panel();
+            this.hotkeyInformationLabel = new System.Windows.Forms.Panel();
+            this.label = new System.Windows.Forms.Label();
+            this.panel12 = new System.Windows.Forms.Panel();
+            this.panel15 = new System.Windows.Forms.Panel();
+            this.view_home = new System.Windows.Forms.Panel();
             this.panel11 = new System.Windows.Forms.Panel();
             this.panel14 = new System.Windows.Forms.Panel();
+            this.label4 = new System.Windows.Forms.Label();
+            this.panel16 = new System.Windows.Forms.Panel();
+            this.checkbox_AddSongToPlaylist3Toggle = new System.Windows.Forms.CheckBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.checkbox_AddSongToPlaylist2Toggle = new System.Windows.Forms.CheckBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.label5 = new System.Windows.Forms.Label();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.checkbox_AddSongToPlaylist1Toggle = new System.Windows.Forms.CheckBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.topBar.SuspendLayout();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
+            this.panel22.SuspendLayout();
             this.panel4.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            this.panel21.SuspendLayout();
             this.flowLayoutPanel1.SuspendLayout();
-            this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel5.SuspendLayout();
-            this.view_home.SuspendLayout();
             this.view_settings.SuspendLayout();
-            this.panel13.SuspendLayout();
-            this.settingsView_general.SuspendLayout();
-            this.panel6.SuspendLayout();
-            this.panel7.SuspendLayout();
-            this.panel8.SuspendLayout();
+            this.flowLayoutPanel3.SuspendLayout();
+            this.hotkeyInformationLabel.SuspendLayout();
+            this.panel15.SuspendLayout();
+            this.view_home.SuspendLayout();
+            this.panel11.SuspendLayout();
+            this.panel14.SuspendLayout();
+            this.panel16.SuspendLayout();
+            this.panel2.SuspendLayout();
             this.panel9.SuspendLayout();
             this.panel10.SuspendLayout();
-            this.panel12.SuspendLayout();
-            this.flowLayoutPanel2.SuspendLayout();
-            this.flowLayoutPanel3.SuspendLayout();
-            this.panel11.SuspendLayout();
+            this.panel6.SuspendLayout();
+            this.panel8.SuspendLayout();
+            this.panel7.SuspendLayout();
             this.SuspendLayout();
             // 
             // bunifuElipse1
@@ -128,9 +125,9 @@
             this.bunifuCustomLabel1.ForeColor = System.Drawing.Color.White;
             this.bunifuCustomLabel1.Location = new System.Drawing.Point(8, 4);
             this.bunifuCustomLabel1.Name = "bunifuCustomLabel1";
-            this.bunifuCustomLabel1.Size = new System.Drawing.Size(39, 13);
+            this.bunifuCustomLabel1.Size = new System.Drawing.Size(81, 13);
             this.bunifuCustomLabel1.TabIndex = 5;
-            this.bunifuCustomLabel1.Text = "Spotify";
+            this.bunifuCustomLabel1.Text = "Spotify Hotkeys";
             // 
             // bunifuFlatButton1
             // 
@@ -154,7 +151,7 @@
             this.bunifuFlatButton1.IconVisible = true;
             this.bunifuFlatButton1.IconZoom = 90D;
             this.bunifuFlatButton1.IsTab = false;
-            this.bunifuFlatButton1.Location = new System.Drawing.Point(740, 0);
+            this.bunifuFlatButton1.Location = new System.Drawing.Point(745, 0);
             this.bunifuFlatButton1.Name = "bunifuFlatButton1";
             this.bunifuFlatButton1.Normalcolor = System.Drawing.Color.Transparent;
             this.bunifuFlatButton1.OnHovercolor = System.Drawing.Color.DodgerBlue;
@@ -165,6 +162,7 @@
             this.bunifuFlatButton1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.bunifuFlatButton1.Textcolor = System.Drawing.Color.White;
             this.bunifuFlatButton1.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bunifuFlatButton1.Click += new System.EventHandler(this.minimizeWindow);
             // 
             // bunifuFlatButton2
             // 
@@ -199,68 +197,83 @@
             this.bunifuFlatButton2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.bunifuFlatButton2.Textcolor = System.Drawing.Color.White;
             this.bunifuFlatButton2.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.bunifuFlatButton2.Click += new System.EventHandler(this.exitWindow);
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(47)))), ((int)(((byte)(51)))));
             this.panel1.Controls.Add(this.panel3);
             this.panel1.Controls.Add(this.flowLayoutPanel1);
-            this.panel1.Controls.Add(this.panel2);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 23);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(200, 427);
+            this.panel1.Size = new System.Drawing.Size(220, 427);
             this.panel1.TabIndex = 1;
             // 
             // panel3
             // 
-            this.panel3.Controls.Add(this.label_userID);
+            this.panel3.Controls.Add(this.panel22);
             this.panel3.Controls.Add(this.panel4);
-            this.panel3.Controls.Add(this.pictureBox2);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.panel3.Location = new System.Drawing.Point(0, 370);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(200, 57);
+            this.panel3.Size = new System.Drawing.Size(220, 57);
             this.panel3.TabIndex = 2;
+            // 
+            // panel22
+            // 
+            this.panel22.Controls.Add(this.label_userID);
+            this.panel22.Location = new System.Drawing.Point(0, 26);
+            this.panel22.Name = "panel22";
+            this.panel22.Size = new System.Drawing.Size(220, 31);
+            this.panel22.TabIndex = 4;
             // 
             // label_userID
             // 
             this.label_userID.AutoEllipsis = true;
-            this.label_userID.AutoSize = true;
             this.label_userID.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_userID.ForeColor = System.Drawing.Color.White;
-            this.label_userID.Location = new System.Drawing.Point(63, 34);
+            this.label_userID.Location = new System.Drawing.Point(5, 7);
             this.label_userID.Name = "label_userID";
-            this.label_userID.Size = new System.Drawing.Size(23, 17);
-            this.label_userID.TabIndex = 4;
+            this.label_userID.Size = new System.Drawing.Size(190, 17);
+            this.label_userID.TabIndex = 5;
             this.label_userID.Text = "ID";
             // 
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(34)))), ((int)(((byte)(37)))));
-            this.panel4.Controls.Add(this.label_userName);
+            this.panel4.Controls.Add(this.panel21);
             this.panel4.Controls.Add(this.bunifuFlatButton6);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel4.Location = new System.Drawing.Point(58, 0);
+            this.panel4.Location = new System.Drawing.Point(0, 0);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(142, 28);
+            this.panel4.Size = new System.Drawing.Size(220, 28);
             this.panel4.TabIndex = 3;
+            // 
+            // panel21
+            // 
+            this.panel21.Controls.Add(this.label_userName);
+            this.panel21.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panel21.Location = new System.Drawing.Point(0, 0);
+            this.panel21.Name = "panel21";
+            this.panel21.Size = new System.Drawing.Size(187, 28);
+            this.panel21.TabIndex = 4;
             // 
             // label_userName
             // 
             this.label_userName.AutoEllipsis = true;
-            this.label_userName.AutoSize = true;
             this.label_userName.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label_userName.ForeColor = System.Drawing.Color.White;
-            this.label_userName.Location = new System.Drawing.Point(5, 5);
+            this.label_userName.Location = new System.Drawing.Point(5, 6);
             this.label_userName.Name = "label_userName";
-            this.label_userName.Size = new System.Drawing.Size(76, 17);
-            this.label_userName.TabIndex = 1;
+            this.label_userName.Size = new System.Drawing.Size(175, 17);
+            this.label_userName.TabIndex = 2;
             this.label_userName.Text = "First Last";
             // 
             // bunifuFlatButton6
             // 
             this.bunifuFlatButton6.Activecolor = System.Drawing.Color.Transparent;
+            this.bunifuFlatButton6.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.bunifuFlatButton6.BackColor = System.Drawing.Color.Transparent;
             this.bunifuFlatButton6.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuFlatButton6.BackgroundImage")));
             this.bunifuFlatButton6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
@@ -280,39 +293,29 @@
             this.bunifuFlatButton6.IconVisible = true;
             this.bunifuFlatButton6.IconZoom = 90D;
             this.bunifuFlatButton6.IsTab = false;
-            this.bunifuFlatButton6.Location = new System.Drawing.Point(119, 0);
+            this.bunifuFlatButton6.Location = new System.Drawing.Point(193, 0);
             this.bunifuFlatButton6.Name = "bunifuFlatButton6";
             this.bunifuFlatButton6.Normalcolor = System.Drawing.Color.Transparent;
             this.bunifuFlatButton6.OnHovercolor = System.Drawing.Color.Transparent;
             this.bunifuFlatButton6.OnHoverTextColor = System.Drawing.Color.White;
             this.bunifuFlatButton6.selected = false;
             this.bunifuFlatButton6.Size = new System.Drawing.Size(19, 28);
-            this.bunifuFlatButton6.TabIndex = 2;
+            this.bunifuFlatButton6.TabIndex = 3;
             this.bunifuFlatButton6.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.bunifuFlatButton6.Textcolor = System.Drawing.Color.White;
             this.bunifuFlatButton6.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.BackgroundImage")));
-            this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox2.Dock = System.Windows.Forms.DockStyle.Left;
-            this.pictureBox2.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(58, 57);
-            this.pictureBox2.TabIndex = 0;
-            this.pictureBox2.TabStop = false;
+            this.bunifuFlatButton6.Click += new System.EventHandler(this.bunifuFlatButton6_Click);
             // 
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.Controls.Add(this.button_home);
             this.flowLayoutPanel1.Controls.Add(this.button_settings);
             this.flowLayoutPanel1.Controls.Add(this.button_about);
-            this.flowLayoutPanel1.Controls.Add(this.bunifuFlatButton7);
+            this.flowLayoutPanel1.Controls.Add(this.sideMenu_exitButton);
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 41);
+            this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
-            this.flowLayoutPanel1.Size = new System.Drawing.Size(200, 386);
+            this.flowLayoutPanel1.Size = new System.Drawing.Size(220, 427);
             this.flowLayoutPanel1.TabIndex = 4;
             // 
             // button_home
@@ -348,6 +351,7 @@
             this.button_home.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button_home.Textcolor = System.Drawing.Color.White;
             this.button_home.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_home.Click += new System.EventHandler(this.navigate_home);
             // 
             // button_settings
             // 
@@ -357,7 +361,8 @@
             this.button_settings.BorderRadius = 0;
             this.button_settings.ButtonText = "     Settings";
             this.button_settings.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button_settings.DisabledColor = System.Drawing.Color.Gray;
+            this.button_settings.DisabledColor = System.Drawing.Color.DimGray;
+            this.button_settings.Enabled = false;
             this.button_settings.Iconcolor = System.Drawing.Color.Transparent;
             this.button_settings.Iconimage = ((System.Drawing.Image)(resources.GetObject("button_settings.Iconimage")));
             this.button_settings.Iconimage_right = null;
@@ -382,6 +387,8 @@
             this.button_settings.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button_settings.Textcolor = System.Drawing.Color.White;
             this.button_settings.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_settings.Visible = false;
+            this.button_settings.Click += new System.EventHandler(this.navigate_settings);
             // 
             // button_about
             // 
@@ -416,58 +423,43 @@
             this.button_about.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button_about.Textcolor = System.Drawing.Color.White;
             this.button_about.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button_about.Visible = false;
+            this.button_about.Click += new System.EventHandler(this.navigate_about);
             // 
-            // bunifuFlatButton7
+            // sideMenu_exitButton
             // 
-            this.bunifuFlatButton7.Activecolor = System.Drawing.Color.Black;
-            this.bunifuFlatButton7.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bunifuFlatButton7.BorderRadius = 0;
-            this.bunifuFlatButton7.ButtonText = "     Exit";
-            this.bunifuFlatButton7.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bunifuFlatButton7.DisabledColor = System.Drawing.Color.Gray;
-            this.bunifuFlatButton7.Iconcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton7.Iconimage = ((System.Drawing.Image)(resources.GetObject("bunifuFlatButton7.Iconimage")));
-            this.bunifuFlatButton7.Iconimage_right = null;
-            this.bunifuFlatButton7.Iconimage_right_Selected = null;
-            this.bunifuFlatButton7.Iconimage_Selected = null;
-            this.bunifuFlatButton7.IconMarginLeft = 0;
-            this.bunifuFlatButton7.IconMarginRight = 0;
-            this.bunifuFlatButton7.IconRightVisible = true;
-            this.bunifuFlatButton7.IconRightZoom = 0D;
-            this.bunifuFlatButton7.IconVisible = true;
-            this.bunifuFlatButton7.IconZoom = 50D;
-            this.bunifuFlatButton7.IsTab = false;
-            this.bunifuFlatButton7.Location = new System.Drawing.Point(3, 165);
-            this.bunifuFlatButton7.Name = "bunifuFlatButton7";
-            this.bunifuFlatButton7.Normalcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton7.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.bunifuFlatButton7.OnHoverTextColor = System.Drawing.Color.White;
-            this.bunifuFlatButton7.selected = false;
-            this.bunifuFlatButton7.Size = new System.Drawing.Size(200, 48);
-            this.bunifuFlatButton7.TabIndex = 3;
-            this.bunifuFlatButton7.Text = "     Exit";
-            this.bunifuFlatButton7.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.bunifuFlatButton7.Textcolor = System.Drawing.Color.White;
-            this.bunifuFlatButton7.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.pictureBox1);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel2.Location = new System.Drawing.Point(0, 0);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(200, 41);
-            this.panel2.TabIndex = 3;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 0);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(200, 41);
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
+            this.sideMenu_exitButton.Activecolor = System.Drawing.Color.Black;
+            this.sideMenu_exitButton.BackColor = System.Drawing.Color.Transparent;
+            this.sideMenu_exitButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.sideMenu_exitButton.BorderRadius = 0;
+            this.sideMenu_exitButton.ButtonText = "     Exit";
+            this.sideMenu_exitButton.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.sideMenu_exitButton.DisabledColor = System.Drawing.Color.Gray;
+            this.sideMenu_exitButton.Iconcolor = System.Drawing.Color.Transparent;
+            this.sideMenu_exitButton.Iconimage = ((System.Drawing.Image)(resources.GetObject("sideMenu_exitButton.Iconimage")));
+            this.sideMenu_exitButton.Iconimage_right = null;
+            this.sideMenu_exitButton.Iconimage_right_Selected = null;
+            this.sideMenu_exitButton.Iconimage_Selected = null;
+            this.sideMenu_exitButton.IconMarginLeft = 0;
+            this.sideMenu_exitButton.IconMarginRight = 0;
+            this.sideMenu_exitButton.IconRightVisible = true;
+            this.sideMenu_exitButton.IconRightZoom = 0D;
+            this.sideMenu_exitButton.IconVisible = true;
+            this.sideMenu_exitButton.IconZoom = 50D;
+            this.sideMenu_exitButton.IsTab = false;
+            this.sideMenu_exitButton.Location = new System.Drawing.Point(3, 165);
+            this.sideMenu_exitButton.Name = "sideMenu_exitButton";
+            this.sideMenu_exitButton.Normalcolor = System.Drawing.Color.Transparent;
+            this.sideMenu_exitButton.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.sideMenu_exitButton.OnHoverTextColor = System.Drawing.Color.White;
+            this.sideMenu_exitButton.selected = false;
+            this.sideMenu_exitButton.Size = new System.Drawing.Size(200, 48);
+            this.sideMenu_exitButton.TabIndex = 3;
+            this.sideMenu_exitButton.Text = "     Exit";
+            this.sideMenu_exitButton.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.sideMenu_exitButton.Textcolor = System.Drawing.Color.White;
+            this.sideMenu_exitButton.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sideMenu_exitButton.Click += new System.EventHandler(this.navigate_exit);
             // 
             // topBar_dragControl
             // 
@@ -481,9 +473,9 @@
             this.panel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(47)))), ((int)(((byte)(51)))));
             this.panel5.Controls.Add(this.label_currentView);
             this.panel5.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel5.Location = new System.Drawing.Point(200, 23);
+            this.panel5.Location = new System.Drawing.Point(220, 23);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(600, 41);
+            this.panel5.Size = new System.Drawing.Size(580, 41);
             this.panel5.TabIndex = 3;
             // 
             // label_currentView
@@ -493,484 +485,281 @@
             this.label_currentView.ForeColor = System.Drawing.Color.White;
             this.label_currentView.Location = new System.Drawing.Point(6, 5);
             this.label_currentView.Name = "label_currentView";
-            this.label_currentView.Size = new System.Drawing.Size(100, 29);
+            this.label_currentView.Size = new System.Drawing.Size(0, 29);
             this.label_currentView.TabIndex = 4;
-            this.label_currentView.Text = "Settings";
-            // 
-            // view_home
-            // 
-            this.view_home.Controls.Add(this.view_settings);
-            this.view_home.Controls.Add(this.label2);
-            this.view_home.Controls.Add(this.label1);
-            this.view_home.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.view_home.Location = new System.Drawing.Point(200, 64);
-            this.view_home.Name = "view_home";
-            this.view_home.Size = new System.Drawing.Size(600, 386);
-            this.view_home.TabIndex = 4;
             // 
             // view_settings
             // 
             this.view_settings.Controls.Add(this.flowLayoutPanel3);
+            this.view_settings.Controls.Add(this.hotkeyInformationLabel);
             this.view_settings.Controls.Add(this.panel12);
+            this.view_settings.Dock = System.Windows.Forms.DockStyle.Fill;
             this.view_settings.Location = new System.Drawing.Point(0, 0);
             this.view_settings.Name = "view_settings";
-            this.view_settings.Size = new System.Drawing.Size(600, 386);
+            this.view_settings.Size = new System.Drawing.Size(580, 386);
             this.view_settings.TabIndex = 6;
+            // 
+            // flowLayoutPanel3
+            // 
+            this.flowLayoutPanel3.Controls.Add(this.panel13);
+            this.flowLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.flowLayoutPanel3.Location = new System.Drawing.Point(197, 54);
+            this.flowLayoutPanel3.Name = "flowLayoutPanel3";
+            this.flowLayoutPanel3.Size = new System.Drawing.Size(383, 332);
+            this.flowLayoutPanel3.TabIndex = 3;
             // 
             // panel13
             // 
             this.panel13.AutoScroll = true;
-            this.panel13.Controls.Add(this.settingsView_general);
-            this.panel13.Location = new System.Drawing.Point(3, 70);
+            this.panel13.AutoSize = true;
+            this.panel13.Location = new System.Drawing.Point(3, 3);
             this.panel13.Name = "panel13";
-            this.panel13.Size = new System.Drawing.Size(412, 313);
+            this.panel13.Size = new System.Drawing.Size(0, 0);
             this.panel13.TabIndex = 3;
             // 
-            // settingsView_general
+            // hotkeyInformationLabel
             // 
-            this.settingsView_general.AutoScroll = true;
-            this.settingsView_general.AutoSize = true;
-            this.settingsView_general.Controls.Add(this.hotkeyButton_AddSong1);
-            this.settingsView_general.Controls.Add(this.panel6);
-            this.settingsView_general.Controls.Add(this.bunifuFlatButton3);
-            this.settingsView_general.Controls.Add(this.panel7);
-            this.settingsView_general.Controls.Add(this.bunifuFlatButton4);
-            this.settingsView_general.Controls.Add(this.panel8);
-            this.settingsView_general.Controls.Add(this.bunifuFlatButton5);
-            this.settingsView_general.Controls.Add(this.panel9);
-            this.settingsView_general.Controls.Add(this.bunifuFlatButton8);
-            this.settingsView_general.Controls.Add(this.panel10);
-            this.settingsView_general.Dock = System.Windows.Forms.DockStyle.Top;
-            this.settingsView_general.Location = new System.Drawing.Point(0, 0);
-            this.settingsView_general.Name = "settingsView_general";
-            this.settingsView_general.Size = new System.Drawing.Size(412, 270);
-            this.settingsView_general.TabIndex = 1;
+            this.hotkeyInformationLabel.BackColor = System.Drawing.Color.White;
+            this.hotkeyInformationLabel.Controls.Add(this.label);
+            this.hotkeyInformationLabel.Dock = System.Windows.Forms.DockStyle.Top;
+            this.hotkeyInformationLabel.ForeColor = System.Drawing.Color.Red;
+            this.hotkeyInformationLabel.Location = new System.Drawing.Point(197, 0);
+            this.hotkeyInformationLabel.Name = "hotkeyInformationLabel";
+            this.hotkeyInformationLabel.Size = new System.Drawing.Size(383, 54);
+            this.hotkeyInformationLabel.TabIndex = 3;
             // 
-            // hotkeyButton_AddSong1
+            // label
             // 
-            this.hotkeyButton_AddSong1.Activecolor = System.Drawing.Color.Black;
-            this.hotkeyButton_AddSong1.BackColor = System.Drawing.Color.Transparent;
-            this.hotkeyButton_AddSong1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.hotkeyButton_AddSong1.BorderRadius = 0;
-            this.hotkeyButton_AddSong1.ButtonText = "     Add Song 1";
-            this.hotkeyButton_AddSong1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.hotkeyButton_AddSong1.DisabledColor = System.Drawing.Color.Transparent;
-            this.hotkeyButton_AddSong1.Iconcolor = System.Drawing.Color.Transparent;
-            this.hotkeyButton_AddSong1.Iconimage = ((System.Drawing.Image)(resources.GetObject("hotkeyButton_AddSong1.Iconimage")));
-            this.hotkeyButton_AddSong1.Iconimage_right = null;
-            this.hotkeyButton_AddSong1.Iconimage_right_Selected = null;
-            this.hotkeyButton_AddSong1.Iconimage_Selected = null;
-            this.hotkeyButton_AddSong1.IconMarginLeft = 0;
-            this.hotkeyButton_AddSong1.IconMarginRight = 0;
-            this.hotkeyButton_AddSong1.IconRightVisible = true;
-            this.hotkeyButton_AddSong1.IconRightZoom = 0D;
-            this.hotkeyButton_AddSong1.IconVisible = true;
-            this.hotkeyButton_AddSong1.IconZoom = 50D;
-            this.hotkeyButton_AddSong1.IsTab = false;
-            this.hotkeyButton_AddSong1.Location = new System.Drawing.Point(3, 3);
-            this.hotkeyButton_AddSong1.Name = "hotkeyButton_AddSong1";
-            this.hotkeyButton_AddSong1.Normalcolor = System.Drawing.Color.Transparent;
-            this.hotkeyButton_AddSong1.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.hotkeyButton_AddSong1.OnHoverTextColor = System.Drawing.Color.White;
-            this.hotkeyButton_AddSong1.selected = false;
-            this.hotkeyButton_AddSong1.Size = new System.Drawing.Size(180, 48);
-            this.hotkeyButton_AddSong1.TabIndex = 4;
-            this.hotkeyButton_AddSong1.Text = "     Add Song 1";
-            this.hotkeyButton_AddSong1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.hotkeyButton_AddSong1.Textcolor = System.Drawing.Color.White;
-            this.hotkeyButton_AddSong1.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            // 
-            // panel6
-            // 
-            this.panel6.Controls.Add(this.button1);
-            this.panel6.Location = new System.Drawing.Point(189, 3);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(190, 48);
-            this.panel6.TabIndex = 5;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(18, 10);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(160, 29);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            // 
-            // bunifuFlatButton3
-            // 
-            this.bunifuFlatButton3.Activecolor = System.Drawing.Color.Black;
-            this.bunifuFlatButton3.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bunifuFlatButton3.BorderRadius = 0;
-            this.bunifuFlatButton3.ButtonText = "     Add Song 2";
-            this.bunifuFlatButton3.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bunifuFlatButton3.DisabledColor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton3.Iconcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton3.Iconimage = ((System.Drawing.Image)(resources.GetObject("bunifuFlatButton3.Iconimage")));
-            this.bunifuFlatButton3.Iconimage_right = null;
-            this.bunifuFlatButton3.Iconimage_right_Selected = null;
-            this.bunifuFlatButton3.Iconimage_Selected = null;
-            this.bunifuFlatButton3.IconMarginLeft = 0;
-            this.bunifuFlatButton3.IconMarginRight = 0;
-            this.bunifuFlatButton3.IconRightVisible = true;
-            this.bunifuFlatButton3.IconRightZoom = 0D;
-            this.bunifuFlatButton3.IconVisible = true;
-            this.bunifuFlatButton3.IconZoom = 50D;
-            this.bunifuFlatButton3.IsTab = false;
-            this.bunifuFlatButton3.Location = new System.Drawing.Point(3, 57);
-            this.bunifuFlatButton3.Name = "bunifuFlatButton3";
-            this.bunifuFlatButton3.Normalcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton3.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.bunifuFlatButton3.OnHoverTextColor = System.Drawing.Color.White;
-            this.bunifuFlatButton3.selected = false;
-            this.bunifuFlatButton3.Size = new System.Drawing.Size(180, 48);
-            this.bunifuFlatButton3.TabIndex = 6;
-            this.bunifuFlatButton3.Text = "     Add Song 2";
-            this.bunifuFlatButton3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.bunifuFlatButton3.Textcolor = System.Drawing.Color.White;
-            this.bunifuFlatButton3.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            // 
-            // panel7
-            // 
-            this.panel7.Controls.Add(this.button2);
-            this.panel7.Location = new System.Drawing.Point(189, 57);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(190, 48);
-            this.panel7.TabIndex = 7;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(18, 10);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(160, 29);
-            this.button2.TabIndex = 0;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // bunifuFlatButton4
-            // 
-            this.bunifuFlatButton4.Activecolor = System.Drawing.Color.Black;
-            this.bunifuFlatButton4.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bunifuFlatButton4.BorderRadius = 0;
-            this.bunifuFlatButton4.ButtonText = "     Add Song 3";
-            this.bunifuFlatButton4.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bunifuFlatButton4.DisabledColor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton4.Iconcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton4.Iconimage = ((System.Drawing.Image)(resources.GetObject("bunifuFlatButton4.Iconimage")));
-            this.bunifuFlatButton4.Iconimage_right = null;
-            this.bunifuFlatButton4.Iconimage_right_Selected = null;
-            this.bunifuFlatButton4.Iconimage_Selected = null;
-            this.bunifuFlatButton4.IconMarginLeft = 0;
-            this.bunifuFlatButton4.IconMarginRight = 0;
-            this.bunifuFlatButton4.IconRightVisible = true;
-            this.bunifuFlatButton4.IconRightZoom = 0D;
-            this.bunifuFlatButton4.IconVisible = true;
-            this.bunifuFlatButton4.IconZoom = 50D;
-            this.bunifuFlatButton4.IsTab = false;
-            this.bunifuFlatButton4.Location = new System.Drawing.Point(3, 111);
-            this.bunifuFlatButton4.Name = "bunifuFlatButton4";
-            this.bunifuFlatButton4.Normalcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton4.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.bunifuFlatButton4.OnHoverTextColor = System.Drawing.Color.White;
-            this.bunifuFlatButton4.selected = false;
-            this.bunifuFlatButton4.Size = new System.Drawing.Size(180, 48);
-            this.bunifuFlatButton4.TabIndex = 8;
-            this.bunifuFlatButton4.Text = "     Add Song 3";
-            this.bunifuFlatButton4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.bunifuFlatButton4.Textcolor = System.Drawing.Color.White;
-            this.bunifuFlatButton4.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            // 
-            // panel8
-            // 
-            this.panel8.Controls.Add(this.button3);
-            this.panel8.Location = new System.Drawing.Point(189, 111);
-            this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(190, 48);
-            this.panel8.TabIndex = 9;
-            // 
-            // button3
-            // 
-            this.button3.Location = new System.Drawing.Point(18, 10);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(160, 29);
-            this.button3.TabIndex = 0;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // bunifuFlatButton5
-            // 
-            this.bunifuFlatButton5.Activecolor = System.Drawing.Color.Black;
-            this.bunifuFlatButton5.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bunifuFlatButton5.BorderRadius = 0;
-            this.bunifuFlatButton5.ButtonText = "     Add Song 4";
-            this.bunifuFlatButton5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bunifuFlatButton5.DisabledColor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton5.Iconcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton5.Iconimage = ((System.Drawing.Image)(resources.GetObject("bunifuFlatButton5.Iconimage")));
-            this.bunifuFlatButton5.Iconimage_right = null;
-            this.bunifuFlatButton5.Iconimage_right_Selected = null;
-            this.bunifuFlatButton5.Iconimage_Selected = null;
-            this.bunifuFlatButton5.IconMarginLeft = 0;
-            this.bunifuFlatButton5.IconMarginRight = 0;
-            this.bunifuFlatButton5.IconRightVisible = true;
-            this.bunifuFlatButton5.IconRightZoom = 0D;
-            this.bunifuFlatButton5.IconVisible = true;
-            this.bunifuFlatButton5.IconZoom = 50D;
-            this.bunifuFlatButton5.IsTab = false;
-            this.bunifuFlatButton5.Location = new System.Drawing.Point(3, 165);
-            this.bunifuFlatButton5.Name = "bunifuFlatButton5";
-            this.bunifuFlatButton5.Normalcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton5.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.bunifuFlatButton5.OnHoverTextColor = System.Drawing.Color.White;
-            this.bunifuFlatButton5.selected = false;
-            this.bunifuFlatButton5.Size = new System.Drawing.Size(180, 48);
-            this.bunifuFlatButton5.TabIndex = 10;
-            this.bunifuFlatButton5.Text = "     Add Song 4";
-            this.bunifuFlatButton5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.bunifuFlatButton5.Textcolor = System.Drawing.Color.White;
-            this.bunifuFlatButton5.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            // 
-            // panel9
-            // 
-            this.panel9.Controls.Add(this.button4);
-            this.panel9.Location = new System.Drawing.Point(189, 165);
-            this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(190, 48);
-            this.panel9.TabIndex = 11;
-            // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(18, 10);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(160, 29);
-            this.button4.TabIndex = 0;
-            this.button4.Text = "button4";
-            this.button4.UseVisualStyleBackColor = true;
-            // 
-            // bunifuFlatButton8
-            // 
-            this.bunifuFlatButton8.Activecolor = System.Drawing.Color.Black;
-            this.bunifuFlatButton8.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bunifuFlatButton8.BorderRadius = 0;
-            this.bunifuFlatButton8.ButtonText = "     Add Song 5";
-            this.bunifuFlatButton8.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bunifuFlatButton8.DisabledColor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton8.Iconcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton8.Iconimage = ((System.Drawing.Image)(resources.GetObject("bunifuFlatButton8.Iconimage")));
-            this.bunifuFlatButton8.Iconimage_right = null;
-            this.bunifuFlatButton8.Iconimage_right_Selected = null;
-            this.bunifuFlatButton8.Iconimage_Selected = null;
-            this.bunifuFlatButton8.IconMarginLeft = 0;
-            this.bunifuFlatButton8.IconMarginRight = 0;
-            this.bunifuFlatButton8.IconRightVisible = true;
-            this.bunifuFlatButton8.IconRightZoom = 0D;
-            this.bunifuFlatButton8.IconVisible = true;
-            this.bunifuFlatButton8.IconZoom = 50D;
-            this.bunifuFlatButton8.IsTab = false;
-            this.bunifuFlatButton8.Location = new System.Drawing.Point(3, 219);
-            this.bunifuFlatButton8.Name = "bunifuFlatButton8";
-            this.bunifuFlatButton8.Normalcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton8.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.bunifuFlatButton8.OnHoverTextColor = System.Drawing.Color.White;
-            this.bunifuFlatButton8.selected = false;
-            this.bunifuFlatButton8.Size = new System.Drawing.Size(180, 48);
-            this.bunifuFlatButton8.TabIndex = 12;
-            this.bunifuFlatButton8.Text = "     Add Song 5";
-            this.bunifuFlatButton8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.bunifuFlatButton8.Textcolor = System.Drawing.Color.White;
-            this.bunifuFlatButton8.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            // 
-            // panel10
-            // 
-            this.panel10.Controls.Add(this.button5);
-            this.panel10.Location = new System.Drawing.Point(189, 219);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(190, 48);
-            this.panel10.TabIndex = 13;
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(18, 10);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(160, 29);
-            this.button5.TabIndex = 0;
-            this.button5.Text = "button5";
-            this.button5.UseVisualStyleBackColor = true;
+            this.label.AutoSize = true;
+            this.label.Location = new System.Drawing.Point(9, 21);
+            this.label.Name = "label";
+            this.label.Size = new System.Drawing.Size(322, 13);
+            this.label.TabIndex = 1;
+            this.label.Text = "Please hit the keys you want asssociated with the selected hotkey.";
             // 
             // panel12
             // 
             this.panel12.AutoScroll = true;
-            this.panel12.Controls.Add(this.flowLayoutPanel2);
             this.panel12.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel12.Location = new System.Drawing.Point(0, 0);
             this.panel12.Name = "panel12";
             this.panel12.Size = new System.Drawing.Size(197, 386);
             this.panel12.TabIndex = 2;
             // 
-            // flowLayoutPanel2
+            // panel15
             // 
-            this.flowLayoutPanel2.AutoSize = true;
-            this.flowLayoutPanel2.Controls.Add(this.settingsButton_hotkeys);
-            this.flowLayoutPanel2.Controls.Add(this.bunifuFlatButton10);
-            this.flowLayoutPanel2.Controls.Add(this.bunifuFlatButton11);
-            this.flowLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.flowLayoutPanel2.Location = new System.Drawing.Point(0, 0);
-            this.flowLayoutPanel2.Name = "flowLayoutPanel2";
-            this.flowLayoutPanel2.Size = new System.Drawing.Size(197, 162);
-            this.flowLayoutPanel2.TabIndex = 0;
+            this.panel15.Controls.Add(this.view_home);
+            this.panel15.Controls.Add(this.view_settings);
+            this.panel15.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel15.Location = new System.Drawing.Point(220, 64);
+            this.panel15.Name = "panel15";
+            this.panel15.Size = new System.Drawing.Size(580, 386);
+            this.panel15.TabIndex = 4;
             // 
-            // settingsButton_hotkeys
+            // view_home
             // 
-            this.settingsButton_hotkeys.Activecolor = System.Drawing.Color.Black;
-            this.settingsButton_hotkeys.BackColor = System.Drawing.Color.Transparent;
-            this.settingsButton_hotkeys.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.settingsButton_hotkeys.BorderRadius = 0;
-            this.settingsButton_hotkeys.ButtonText = "     Hotkeys";
-            this.settingsButton_hotkeys.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.settingsButton_hotkeys.DisabledColor = System.Drawing.Color.Gray;
-            this.settingsButton_hotkeys.Iconcolor = System.Drawing.Color.Transparent;
-            this.settingsButton_hotkeys.Iconimage = ((System.Drawing.Image)(resources.GetObject("settingsButton_hotkeys.Iconimage")));
-            this.settingsButton_hotkeys.Iconimage_right = null;
-            this.settingsButton_hotkeys.Iconimage_right_Selected = null;
-            this.settingsButton_hotkeys.Iconimage_Selected = null;
-            this.settingsButton_hotkeys.IconMarginLeft = 0;
-            this.settingsButton_hotkeys.IconMarginRight = 0;
-            this.settingsButton_hotkeys.IconRightVisible = true;
-            this.settingsButton_hotkeys.IconRightZoom = 0D;
-            this.settingsButton_hotkeys.IconVisible = true;
-            this.settingsButton_hotkeys.IconZoom = 50D;
-            this.settingsButton_hotkeys.IsTab = false;
-            this.settingsButton_hotkeys.Location = new System.Drawing.Point(3, 3);
-            this.settingsButton_hotkeys.Name = "settingsButton_hotkeys";
-            this.settingsButton_hotkeys.Normalcolor = System.Drawing.Color.Transparent;
-            this.settingsButton_hotkeys.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.settingsButton_hotkeys.OnHoverTextColor = System.Drawing.Color.White;
-            this.settingsButton_hotkeys.selected = false;
-            this.settingsButton_hotkeys.Size = new System.Drawing.Size(194, 48);
-            this.settingsButton_hotkeys.TabIndex = 3;
-            this.settingsButton_hotkeys.Text = "     Hotkeys";
-            this.settingsButton_hotkeys.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.settingsButton_hotkeys.Textcolor = System.Drawing.Color.White;
-            this.settingsButton_hotkeys.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.view_home.AutoScroll = true;
+            this.view_home.Controls.Add(this.panel11);
+            this.view_home.Controls.Add(this.panel2);
+            this.view_home.Controls.Add(this.panel6);
+            this.view_home.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.view_home.Location = new System.Drawing.Point(0, 0);
+            this.view_home.Name = "view_home";
+            this.view_home.Size = new System.Drawing.Size(580, 386);
+            this.view_home.TabIndex = 7;
             // 
-            // bunifuFlatButton10
+            // panel11
             // 
-            this.bunifuFlatButton10.Activecolor = System.Drawing.Color.Black;
-            this.bunifuFlatButton10.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bunifuFlatButton10.BorderRadius = 0;
-            this.bunifuFlatButton10.ButtonText = "     Hotkeys";
-            this.bunifuFlatButton10.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bunifuFlatButton10.DisabledColor = System.Drawing.Color.Gray;
-            this.bunifuFlatButton10.Iconcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton10.Iconimage = ((System.Drawing.Image)(resources.GetObject("bunifuFlatButton10.Iconimage")));
-            this.bunifuFlatButton10.Iconimage_right = null;
-            this.bunifuFlatButton10.Iconimage_right_Selected = null;
-            this.bunifuFlatButton10.Iconimage_Selected = null;
-            this.bunifuFlatButton10.IconMarginLeft = 0;
-            this.bunifuFlatButton10.IconMarginRight = 0;
-            this.bunifuFlatButton10.IconRightVisible = true;
-            this.bunifuFlatButton10.IconRightZoom = 0D;
-            this.bunifuFlatButton10.IconVisible = true;
-            this.bunifuFlatButton10.IconZoom = 50D;
-            this.bunifuFlatButton10.IsTab = false;
-            this.bunifuFlatButton10.Location = new System.Drawing.Point(3, 57);
-            this.bunifuFlatButton10.Name = "bunifuFlatButton10";
-            this.bunifuFlatButton10.Normalcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton10.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.bunifuFlatButton10.OnHoverTextColor = System.Drawing.Color.White;
-            this.bunifuFlatButton10.selected = false;
-            this.bunifuFlatButton10.Size = new System.Drawing.Size(194, 48);
-            this.bunifuFlatButton10.TabIndex = 4;
-            this.bunifuFlatButton10.Text = "     Hotkeys";
-            this.bunifuFlatButton10.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.bunifuFlatButton10.Textcolor = System.Drawing.Color.White;
-            this.bunifuFlatButton10.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.panel11.BackColor = System.Drawing.Color.Black;
+            this.panel11.Controls.Add(this.panel14);
+            this.panel11.Controls.Add(this.panel16);
+            this.panel11.Controls.Add(this.label6);
+            this.panel11.Location = new System.Drawing.Point(11, 135);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(558, 55);
+            this.panel11.TabIndex = 4;
             // 
-            // bunifuFlatButton11
+            // panel14
             // 
-            this.bunifuFlatButton11.Activecolor = System.Drawing.Color.Black;
-            this.bunifuFlatButton11.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bunifuFlatButton11.BorderRadius = 0;
-            this.bunifuFlatButton11.ButtonText = "     Hotkeys";
-            this.bunifuFlatButton11.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bunifuFlatButton11.DisabledColor = System.Drawing.Color.Gray;
-            this.bunifuFlatButton11.Iconcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton11.Iconimage = ((System.Drawing.Image)(resources.GetObject("bunifuFlatButton11.Iconimage")));
-            this.bunifuFlatButton11.Iconimage_right = null;
-            this.bunifuFlatButton11.Iconimage_right_Selected = null;
-            this.bunifuFlatButton11.Iconimage_Selected = null;
-            this.bunifuFlatButton11.IconMarginLeft = 0;
-            this.bunifuFlatButton11.IconMarginRight = 0;
-            this.bunifuFlatButton11.IconRightVisible = true;
-            this.bunifuFlatButton11.IconRightZoom = 0D;
-            this.bunifuFlatButton11.IconVisible = true;
-            this.bunifuFlatButton11.IconZoom = 50D;
-            this.bunifuFlatButton11.IsTab = false;
-            this.bunifuFlatButton11.Location = new System.Drawing.Point(3, 111);
-            this.bunifuFlatButton11.Name = "bunifuFlatButton11";
-            this.bunifuFlatButton11.Normalcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton11.OnHovercolor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.bunifuFlatButton11.OnHoverTextColor = System.Drawing.Color.White;
-            this.bunifuFlatButton11.selected = false;
-            this.bunifuFlatButton11.Size = new System.Drawing.Size(194, 48);
-            this.bunifuFlatButton11.TabIndex = 5;
-            this.bunifuFlatButton11.Text = "     Hotkeys";
-            this.bunifuFlatButton11.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.bunifuFlatButton11.Textcolor = System.Drawing.Color.White;
-            this.bunifuFlatButton11.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.panel14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel14.Controls.Add(this.label4);
+            this.panel14.Location = new System.Drawing.Point(184, 3);
+            this.panel14.Name = "panel14";
+            this.panel14.Size = new System.Drawing.Size(284, 49);
+            this.panel14.TabIndex = 2;
             // 
-            // label2
+            // label4
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(20, 57);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(280, 20);
-            this.label2.TabIndex = 5;
-            this.label2.Text = "This is a description of Spotify Hotkeys";
+            this.label4.AutoSize = true;
+            this.label4.ForeColor = System.Drawing.Color.White;
+            this.label4.Location = new System.Drawing.Point(11, 18);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(43, 13);
+            this.label4.TabIndex = 0;
+            this.label4.Text = "Alt + F3";
+            // 
+            // panel16
+            // 
+            this.panel16.BackColor = System.Drawing.Color.Gray;
+            this.panel16.Controls.Add(this.checkbox_AddSongToPlaylist3Toggle);
+            this.panel16.Location = new System.Drawing.Point(459, 3);
+            this.panel16.Name = "panel16";
+            this.panel16.Size = new System.Drawing.Size(96, 49);
+            this.panel16.TabIndex = 1;
+            // 
+            // checkbox_AddSongToPlaylist3Toggle
+            // 
+            this.checkbox_AddSongToPlaylist3Toggle.AutoSize = true;
+            this.checkbox_AddSongToPlaylist3Toggle.ForeColor = System.Drawing.Color.White;
+            this.checkbox_AddSongToPlaylist3Toggle.Location = new System.Drawing.Point(19, 18);
+            this.checkbox_AddSongToPlaylist3Toggle.Name = "checkbox_AddSongToPlaylist3Toggle";
+            this.checkbox_AddSongToPlaylist3Toggle.Size = new System.Drawing.Size(65, 17);
+            this.checkbox_AddSongToPlaylist3Toggle.TabIndex = 2;
+            this.checkbox_AddSongToPlaylist3Toggle.Text = "Enabled";
+            this.checkbox_AddSongToPlaylist3Toggle.UseVisualStyleBackColor = true;
+            this.checkbox_AddSongToPlaylist3Toggle.Click += new System.EventHandler(this.hotkeyToggle_AddSongToPlaylist3);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.White;
+            this.label6.Location = new System.Drawing.Point(14, 20);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(146, 17);
+            this.label6.TabIndex = 0;
+            this.label6.Text = "Add Song to Playlist 3";
+            // 
+            // panel2
+            // 
+            this.panel2.BackColor = System.Drawing.Color.Black;
+            this.panel2.Controls.Add(this.panel9);
+            this.panel2.Controls.Add(this.panel10);
+            this.panel2.Controls.Add(this.label2);
+            this.panel2.Location = new System.Drawing.Point(11, 77);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(558, 55);
+            this.panel2.TabIndex = 3;
+            // 
+            // panel9
+            // 
+            this.panel9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel9.Controls.Add(this.label1);
+            this.panel9.Location = new System.Drawing.Point(184, 3);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(284, 49);
+            this.panel9.TabIndex = 2;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(19, 13);
+            this.label1.Location = new System.Drawing.Point(11, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(178, 29);
-            this.label1.TabIndex = 4;
-            this.label1.Text = "Spotify Hotkeys";
+            this.label1.Size = new System.Drawing.Size(43, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Alt + F2";
             // 
-            // flowLayoutPanel3
+            // panel10
             // 
-            this.flowLayoutPanel3.Controls.Add(this.panel11);
-            this.flowLayoutPanel3.Controls.Add(this.panel13);
-            this.flowLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flowLayoutPanel3.Location = new System.Drawing.Point(197, 0);
-            this.flowLayoutPanel3.Name = "flowLayoutPanel3";
-            this.flowLayoutPanel3.Size = new System.Drawing.Size(403, 386);
-            this.flowLayoutPanel3.TabIndex = 3;
+            this.panel10.BackColor = System.Drawing.Color.Gray;
+            this.panel10.Controls.Add(this.checkbox_AddSongToPlaylist2Toggle);
+            this.panel10.Location = new System.Drawing.Point(459, 3);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(96, 49);
+            this.panel10.TabIndex = 1;
             // 
-            // panel11
+            // checkbox_AddSongToPlaylist2Toggle
             // 
-            this.panel11.Controls.Add(this.panel14);
-            this.panel11.Location = new System.Drawing.Point(3, 3);
-            this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(397, 61);
-            this.panel11.TabIndex = 0;
+            this.checkbox_AddSongToPlaylist2Toggle.AutoSize = true;
+            this.checkbox_AddSongToPlaylist2Toggle.ForeColor = System.Drawing.Color.White;
+            this.checkbox_AddSongToPlaylist2Toggle.Location = new System.Drawing.Point(19, 18);
+            this.checkbox_AddSongToPlaylist2Toggle.Name = "checkbox_AddSongToPlaylist2Toggle";
+            this.checkbox_AddSongToPlaylist2Toggle.Size = new System.Drawing.Size(65, 17);
+            this.checkbox_AddSongToPlaylist2Toggle.TabIndex = 2;
+            this.checkbox_AddSongToPlaylist2Toggle.Text = "Enabled";
+            this.checkbox_AddSongToPlaylist2Toggle.UseVisualStyleBackColor = true;
+            this.checkbox_AddSongToPlaylist2Toggle.Click += new System.EventHandler(this.hotkeyToggle_AddSongToPlaylist2);
             // 
-            // panel14
+            // label2
             // 
-            this.panel14.Location = new System.Drawing.Point(10, 6);
-            this.panel14.Name = "panel14";
-            this.panel14.Size = new System.Drawing.Size(378, 45);
-            this.panel14.TabIndex = 0;
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.Location = new System.Drawing.Point(14, 20);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(146, 17);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "Add Song to Playlist 2";
+            // 
+            // panel6
+            // 
+            this.panel6.BackColor = System.Drawing.Color.Black;
+            this.panel6.Controls.Add(this.panel8);
+            this.panel6.Controls.Add(this.panel7);
+            this.panel6.Controls.Add(this.label3);
+            this.panel6.Location = new System.Drawing.Point(11, 16);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(558, 55);
+            this.panel6.TabIndex = 2;
+            // 
+            // panel8
+            // 
+            this.panel8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
+            this.panel8.Controls.Add(this.label5);
+            this.panel8.Location = new System.Drawing.Point(184, 3);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(284, 49);
+            this.panel8.TabIndex = 2;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.ForeColor = System.Drawing.Color.White;
+            this.label5.Location = new System.Drawing.Point(11, 18);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(43, 13);
+            this.label5.TabIndex = 0;
+            this.label5.Text = "Alt + F1";
+            // 
+            // panel7
+            // 
+            this.panel7.BackColor = System.Drawing.Color.Gray;
+            this.panel7.Controls.Add(this.checkbox_AddSongToPlaylist1Toggle);
+            this.panel7.Location = new System.Drawing.Point(459, 3);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(96, 49);
+            this.panel7.TabIndex = 1;
+            // 
+            // checkbox_AddSongToPlaylist1Toggle
+            // 
+            this.checkbox_AddSongToPlaylist1Toggle.AutoSize = true;
+            this.checkbox_AddSongToPlaylist1Toggle.ForeColor = System.Drawing.Color.White;
+            this.checkbox_AddSongToPlaylist1Toggle.Location = new System.Drawing.Point(19, 18);
+            this.checkbox_AddSongToPlaylist1Toggle.Name = "checkbox_AddSongToPlaylist1Toggle";
+            this.checkbox_AddSongToPlaylist1Toggle.Size = new System.Drawing.Size(65, 17);
+            this.checkbox_AddSongToPlaylist1Toggle.TabIndex = 2;
+            this.checkbox_AddSongToPlaylist1Toggle.Text = "Enabled";
+            this.checkbox_AddSongToPlaylist1Toggle.UseVisualStyleBackColor = true;
+            this.checkbox_AddSongToPlaylist1Toggle.Click += new System.EventHandler(this.hotkeyToggle_AddSongToPlaylist1);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.Color.White;
+            this.label3.Location = new System.Drawing.Point(14, 20);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(146, 17);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Add Song to Playlist 1";
+            // 
+            // notifyIcon1
+            // 
+            this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
+            this.notifyIcon1.Text = "Spotify Hotkeys";
+            this.notifyIcon1.Visible = true;
+            this.notifyIcon1.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.maximizeWindow);
             // 
             // Main
             // 
@@ -978,42 +767,51 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(54)))), ((int)(((byte)(57)))), ((int)(((byte)(63)))));
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.view_home);
+            this.Controls.Add(this.panel15);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.topBar);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Main";
             this.Text = "Main";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Main_FormClosing);
+            this.Load += new System.EventHandler(this.Main_Load);
+            this.Resize += new System.EventHandler(this.Main_Resize);
             this.topBar.ResumeLayout(false);
             this.topBar.PerformLayout();
             this.panel1.ResumeLayout(false);
             this.panel3.ResumeLayout(false);
-            this.panel3.PerformLayout();
+            this.panel22.ResumeLayout(false);
             this.panel4.ResumeLayout(false);
-            this.panel4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            this.panel21.ResumeLayout(false);
             this.flowLayoutPanel1.ResumeLayout(false);
-            this.panel2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel5.ResumeLayout(false);
             this.panel5.PerformLayout();
-            this.view_home.ResumeLayout(false);
-            this.view_home.PerformLayout();
             this.view_settings.ResumeLayout(false);
-            this.panel13.ResumeLayout(false);
-            this.panel13.PerformLayout();
-            this.settingsView_general.ResumeLayout(false);
-            this.panel6.ResumeLayout(false);
-            this.panel7.ResumeLayout(false);
-            this.panel8.ResumeLayout(false);
-            this.panel9.ResumeLayout(false);
-            this.panel10.ResumeLayout(false);
-            this.panel12.ResumeLayout(false);
-            this.panel12.PerformLayout();
-            this.flowLayoutPanel2.ResumeLayout(false);
             this.flowLayoutPanel3.ResumeLayout(false);
+            this.flowLayoutPanel3.PerformLayout();
+            this.hotkeyInformationLabel.ResumeLayout(false);
+            this.hotkeyInformationLabel.PerformLayout();
+            this.panel15.ResumeLayout(false);
+            this.view_home.ResumeLayout(false);
             this.panel11.ResumeLayout(false);
+            this.panel11.PerformLayout();
+            this.panel14.ResumeLayout(false);
+            this.panel14.PerformLayout();
+            this.panel16.ResumeLayout(false);
+            this.panel16.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            this.panel9.ResumeLayout(false);
+            this.panel9.PerformLayout();
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
+            this.panel6.ResumeLayout(false);
+            this.panel6.PerformLayout();
+            this.panel8.ResumeLayout(false);
+            this.panel8.PerformLayout();
+            this.panel7.ResumeLayout(false);
+            this.panel7.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -1031,45 +829,42 @@
         private Bunifu.Framework.UI.BunifuFlatButton button_settings;
         private Bunifu.Framework.UI.BunifuFlatButton button_home;
         private Bunifu.Framework.UI.BunifuFlatButton button_about;
-        private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.PictureBox pictureBox1;
         private Bunifu.Framework.UI.BunifuCustomLabel bunifuCustomLabel1;
-        private System.Windows.Forms.Label label_userName;
-        private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.Label label_userID;
         private System.Windows.Forms.Panel panel4;
-        private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton6;
-        internal System.Windows.Forms.Panel view_home;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel5;
         internal System.Windows.Forms.Label label_currentView;
-        private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton7;
+        private Bunifu.Framework.UI.BunifuFlatButton sideMenu_exitButton;
         internal System.Windows.Forms.Panel view_settings;
-        private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel2;
-        private Bunifu.Framework.UI.BunifuFlatButton settingsButton_hotkeys;
-        private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton10;
-        private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton11;
         private System.Windows.Forms.Panel panel13;
-        private System.Windows.Forms.FlowLayoutPanel settingsView_general;
-        private Bunifu.Framework.UI.BunifuFlatButton hotkeyButton_AddSong1;
-        private System.Windows.Forms.Panel panel6;
-        private System.Windows.Forms.Button button1;
-        private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton3;
-        private System.Windows.Forms.Panel panel7;
-        private System.Windows.Forms.Button button2;
-        private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton4;
-        private System.Windows.Forms.Panel panel8;
-        private System.Windows.Forms.Button button3;
-        private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton5;
-        private System.Windows.Forms.Panel panel9;
-        private System.Windows.Forms.Button button4;
-        private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton8;
-        private System.Windows.Forms.Panel panel10;
-        private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Panel panel12;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel3;
+        private System.Windows.Forms.Panel panel15;
+        private System.Windows.Forms.Panel view_home;
+        private System.Windows.Forms.Panel hotkeyInformationLabel;
+        private System.Windows.Forms.Label label;
+        private System.Windows.Forms.Panel panel6;
+        private System.Windows.Forms.Panel panel8;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Panel panel7;
+        private System.Windows.Forms.CheckBox checkbox_AddSongToPlaylist1Toggle;
+        private System.Windows.Forms.Label label3;
+        private Bunifu.Framework.UI.BunifuFlatButton bunifuFlatButton6;
+        private System.Windows.Forms.Panel panel21;
+        private System.Windows.Forms.Label label_userName;
+        private System.Windows.Forms.Panel panel22;
+        private System.Windows.Forms.Label label_userID;
+        internal System.Windows.Forms.NotifyIcon notifyIcon1;
         private System.Windows.Forms.Panel panel11;
         private System.Windows.Forms.Panel panel14;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Panel panel16;
+        private System.Windows.Forms.CheckBox checkbox_AddSongToPlaylist3Toggle;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Panel panel9;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.CheckBox checkbox_AddSongToPlaylist2Toggle;
+        private System.Windows.Forms.Label label2;
     }
 }

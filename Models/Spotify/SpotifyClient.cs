@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq;
 
-namespace SpotifyBoilerplate.Models.Spotify
+namespace SpotifyHotkeys.Models.Spotify
 {
     public class SpotifyClient
     {

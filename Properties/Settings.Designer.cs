@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SpotifyBoilerplate.Properties {
+namespace SpotifyHotkeys.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -25,61 +25,61 @@ namespace SpotifyBoilerplate.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Hotkey_AS1 {
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Hotkey_AddSongToPlaylist1 {
             get {
-                return ((string)(this["Hotkey_AS1"]));
+                return ((bool)(this["Hotkey_AddSongToPlaylist1"]));
             }
             set {
-                this["Hotkey_AS1"] = value;
+                this["Hotkey_AddSongToPlaylist1"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Hotkey_AS2 {
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Hotkey_AddSongToPlaylist2 {
             get {
-                return ((string)(this["Hotkey_AS2"]));
+                return ((bool)(this["Hotkey_AddSongToPlaylist2"]));
             }
             set {
-                this["Hotkey_AS2"] = value;
+                this["Hotkey_AddSongToPlaylist2"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Hotkey_AS3 {
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Hotkey_AddSongToPlaylist3 {
             get {
-                return ((string)(this["Hotkey_AS3"]));
+                return ((bool)(this["Hotkey_AddSongToPlaylist3"]));
             }
             set {
-                this["Hotkey_AS3"] = value;
+                this["Hotkey_AddSongToPlaylist3"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Hotkey_AS4 {
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Hotkey_AddSongToPlaylist4 {
             get {
-                return ((string)(this["Hotkey_AS4"]));
+                return ((bool)(this["Hotkey_AddSongToPlaylist4"]));
             }
             set {
-                this["Hotkey_AS4"] = value;
+                this["Hotkey_AddSongToPlaylist4"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string Hotkey_AS5 {
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool Hotkey_AddSongToPlaylist5 {
             get {
-                return ((string)(this["Hotkey_AS5"]));
+                return ((bool)(this["Hotkey_AddSongToPlaylist5"]));
             }
             set {
-                this["Hotkey_AS5"] = value;
+                this["Hotkey_AddSongToPlaylist5"] = value;
             }
         }
     }

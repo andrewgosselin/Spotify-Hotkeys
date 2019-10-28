@@ -1,11 +1,11 @@
-﻿using SpotifyBoilerplate.Views;
+﻿using SpotifyHotkeys.Views;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SpotifyBoilerplate
+namespace SpotifyHotkeys
 {
     static class Program
     {

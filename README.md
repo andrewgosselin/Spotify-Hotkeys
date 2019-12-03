@@ -10,7 +10,7 @@ This repo is under heavy development.
 
 # Getting started
 
-## Installation / Usage (No Releases Available Yet)
+## Installation / Usage
 
 Grab the latest release from this repository and run it as administrator the first time.
 
